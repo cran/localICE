@@ -1,0 +1,12 @@
+0eae6c32f533c0bac92990643816e7d4 *DESCRIPTION
+9f449193d3b10f2ce0971073f82794ce *LICENSE
+e96162d92c9d2c0f873b9d4f6a00cd47 *NAMESPACE
+e590790d516e434d46ec43c89b1cb037 *R/localICE.R
+953da3fefd5a2678da6ae948562a3a57 *README.md
+48f8e062828bc7cd4882f9534811ec83 *man/documentation.Rd
+851d5e0d66ef201f69d3da9486ab6cb2 *tests/testthat.R
+9136b5ccaa297d8710c64c7cff66166c *tests/testthat/test-arguments-missing.R
+e560ac65f52e4d285292b28c7f0e80ec *tests/testthat/test-arguments-wrong.R
+aa52574856b4d50367930ca4fc3c99be *tests/testthat/test-classification.R
+51097280ae1180277227b7a300954434 *tests/testthat/test-regression.R
+165dacb35c9174eac7aa389ae09d4b99 *tests/testthat/test-return.R
